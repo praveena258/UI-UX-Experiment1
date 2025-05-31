@@ -1,7 +1,7 @@
 # UI-UX-Experiment1
 
 ## Aim:
-## Aim:to involve in  Hands-on UI/UX Experiments
+to involve in  Hands-on UI/UX Experiments
 
 ## Algorithm:
 write notes on . Hands-on UI/UX Experiments
